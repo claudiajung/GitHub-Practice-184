@@ -32,7 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
-
+| Claudia Jung | claudiajung | <https://claudiajung.github.io/hello-stat184/> |  
 <br>
 
 # Integration of RStudio with Git
